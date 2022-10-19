@@ -3,7 +3,7 @@ AI Bots - Robotic Processing automation Julia lang scripts to automate repetitiv
 
 ---
 #### Author: Amit Shukla
-#### Contact: amit@elishconsulting.com
+#### Contact: [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
 #### License: MIT
 
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/@Amit.Shukla)
@@ -24,7 +24,7 @@ AI: Fluxml.ai, Oracle AutoML
 ```
 
 # License Agreement
-https://raw.githubusercontent.com/AmitXShukla/RPA/main/LICENSE
+https://github.com/AmitXShukla/RPA/blob/main/LICENSE
 
 # Privacy Policy
-https://raw.githubusercontent.com/AmitXShukla/RPA/main/LICENSE
+https://github.com/AmitXShukla/RPA/blob/main/LICENSE
