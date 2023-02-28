@@ -6,8 +6,7 @@ AI Bots - AI bots and robotic process automation using Python and Julia language
 
 ## Author: Amit Shukla
 
-## Contact: [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.
-com/ashuklax)
+## Contact: [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
 
 ## License: MIT
 
