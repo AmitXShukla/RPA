@@ -18,6 +18,7 @@ AI Bots - AI bots and robotic process automation using Python and Julia language
 ---
 
 Welcome to my latest RPA series notebooks.
+In this series, we will write snippets of Python code used in Automation tasks and later, will put it all altogether to deliver an RPA project.
 
 ## RPA with help of Open AI ChatGPT
 
@@ -74,8 +75,6 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Boxing match timer for 10 rounds 3 mins each with 2 min break]
 - [Jump rope counter]
 - [EMOM clock]
-- Unsplash API
-- Email Sending API
 - [Watching file drop to trigger script]
 - [memory use on windows macos or linux]
 - [Keep moving mouse to avoid sleep mode]
@@ -94,6 +93,8 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Nasa API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Nasa%20API.ipynb)
 - [YT Video Downloader](https://github.com/AmitXShukla/RPA/blob/main/notebooks/YT%20Video%20Downloader.ipynb)
 - [InstaDpViewer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/InstaDpViewer.ipynb)
+- Unsplash API
+- Email Sending API
 - Increasing youtube videos using selenium
 - Calculator count down timer, counter, timer, world clock
 - writing SQLs, tuning SQLs, SQL Explain plan, SQL Stored Procedure
@@ -110,6 +111,9 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - finding cheater using ChatGpt
 - Text to Speech
 - Plagiarism Checker
+- [python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
+- [python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
+- [python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
 
 ## Putting it all together *--work in progress*
 
@@ -140,8 +144,126 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ## License Agreement
 
-https://github.com/AmitXShukla/RPA/blob/main/LICENSE
+<https://github.com/AmitXShukla/RPA/blob/main/LICENSE>
 
 ## Privacy Policy
 
-https://github.com/AmitXShukla/RPA/blob/main/LICENSE
+<https://github.com/AmitXShukla/RPA/blob/main/LICENSE>
+
+----------
+
+----
+
+- [write latex, svg icons, regex code using ChatGPT](https://github.com/AmitXShukla/RPA)
+
+- Text to Speech
+- CSV XLS DSV Photo videos compressor
+    To compress various types of files like CSV, XLS, DSV, photos, and videos, we can use different libraries and techniques depending on the file format.
+
+Here is an example code snippet that demonstrates how to compress a CSV file using the gzip module in Python:
+    import gzip
+
+def compress_csv(input_file_path, output_file_path):
+    """
+    Compress a CSV file using Gzip compression.
+
+    Args:
+        input_file_path (str): The path to the input CSV file.
+        output_file_path (str): The path to the output compressed file.
+
+    Returns:
+        None
+    """
+    with open(input_file_path, "rt") as input_file:
+        with gzip.open(output_file_path, "wt") as output_file:
+            output_file.writelines(input_file)
+
+# Example usage
+
+input_file_path = "example.csv"
+output_file_path = "example.csv.gz"
+compress_csv(input_file_path, output_file_path)
+
+    In this code, we define a function called compress_csv that takes an input CSV file path and an output compressed file path as input. The function uses the gzip module in Python to compress the input file and write the compressed data to the output file.
+
+Similarly, we can use other libraries and techniques to compress other types of files. For example, we can use the zipfile module in Python to compress a folder containing multiple files. We can also use libraries like Pillow to compress image files in formats like JPEG and PNG. For videos, we can use video compression tools like FFmpeg or HandBrake.
+
+It's important to note that the compression techniques and libraries used may depend on the specific requirements and constraints of the application. For example, if the compressed files need to be easily transferable over a network, it may be important to choose a compression technique that results in smaller file sizes, even if it requires more processing time.
+
+- Plagiarism Checker
+    write code for Plagiarism Checker
+    A plagiarism checker is a complex tool that involves several steps such as text preprocessing, text similarity measurement, and comparison with a large corpus of texts. Here is a basic outline of the steps involved in building a plagiarism checker using Python:
+
+    Preprocess the input text: The first step in plagiarism detection is to preprocess the input text. This involves converting the text to lowercase, removing stop words, punctuation marks, and other non-alphabetic characters, and performing stemming or lemmatization to reduce words to their root forms.
+
+    Calculate the similarity score: Once the text has been preprocessed, we can use a similarity measure such as cosine similarity, Jaccard similarity, or edit distance to calculate the similarity score between the input text and a reference corpus of texts.
+
+    Compare the similarity score: Finally, we can compare the similarity score against a threshold to determine whether the input text is plagiarized or not.
+
+Here's some example code that demonstrates how to calculate the similarity score using cosine similarity:
+    import nltk
+from nltk.corpus import stopwords
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+nltk.download('stopwords')
+
+def preprocess_text(text):
+    """
+    Preprocess the input text by removing stop words, punctuation marks,
+    and other non-alphabetic characters, and performing stemming.
+
+    Args:
+        text (str): The input text to be preprocessed.
+
+    Returns:
+        A list of preprocessed words.
+    """
+    stop_words = stopwords.words('english')
+    text = text.lower()
+    text = ' '.join([word for word in text.split() if word not in stop_words])
+    text = ''.join([char for char in text if char.isalpha() or char.isspace()])
+    stemmer = nltk.stem.PorterStemmer()
+    words = [stemmer.stem(word) for word in text.split()]
+
+    return words
+
+def calculate_similarity(input_text, reference_corpus):
+    """
+    Calculate the similarity score between the input text and a reference corpus
+    using cosine similarity.
+
+    Args:
+        input_text (str): The input text to be compared.
+        reference_corpus (list): A list of reference texts.
+
+    Returns:
+        The cosine similarity score between the input text and the reference corpus.
+    """
+    tfidf_vectorizer = TfidfVectorizer(tokenizer=preprocess_text)
+    tfidf_input = tfidf_vectorizer.fit_transform([input_text])
+    tfidf_corpus = tfidf_vectorizer.transform(reference_corpus)
+    similarity_scores = cosine_similarity(tfidf_input, tfidf_corpus)
+
+    return similarity_scores[0][0]
+
+# Example usage
+
+input_text = "This is a sample text."
+reference_corpus = ["This is a sample text for testing the plagiarism checker.",
+                    "This text is completely different from the sample text.",
+                    "The sample text is used to test the plagiarism checker."]
+similarity_score = calculate_similarity(input_text, reference_corpus)
+print(f"The similarity score is: {similarity_score}")
+
+    In this code, we define two functions: preprocess_text and calculate_similarity. The preprocess_text function takes an input text and performs text preprocessing as described above. The calculate_similarity function takes the preprocessed input text and a reference corpus of preprocessed texts, calculates the cosine similarity between the input text and the reference corpus using TF-IDF vectorization, and returns the similarity score.
+
+In the example usage, we define an input text and a reference corpus, and use the calculate_similarity function to calculate the similarity score between the input text and the reference corpus. The output is a similarity score between 0 and 1, where a score closer to 1 indicates a higher degree of similarity between the texts
+
+- Unsplash API
+- Email Sending API
+- Fetch Movies
+
+- writing SQLs, tuning SQLs, SQL Explain plan, SQL Stored Procedure
+- convert Oracle PL SQL to HIVE SQL
+- Insert into databases
