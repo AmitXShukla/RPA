@@ -30,23 +30,29 @@ In this RPA series, we will use ChatGPT's code writing skills to build a trading
 
 This tutorial series does not focus on using ChatGPT for everything, nor does it address the pros and cons of AI writing codes. Instead, we concentrate on RPA tasks and utilize ChatGPT's help where appropriate.
 
-The notebooks included in this repository are beginner-friendly code snippets for automating small tasks.
+The notebooks included in this repository are beginner-friendly code snippets for automating small tasks and every line of source code is included here in this GitHub repository.
 
 ## Table of Contents
 
 ---
 
 - [Splitting big file and combining it back](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Splitting%20big%20file%20and%20combining%20it%20back.ipynb)
+- [Splitting CSV file by rows and combining it back]()
 - [Generate and Read QR Code](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20and%20Read%20QR%20Code.ipynb)
+- [Generate Image Watermark](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20Image%20Watermark.ipynb)
 - [File Encrypt and Decrypt](https://github.com/AmitXShukla/RPA/blob/main/notebooks/File%20Encrypt%20and%20Decrypt.ipynb)
+- [Data Masking and Unmasking]()
+- [search-and-replace over a large number of text files]()
+- [rename and rearrange a bunch of files in certain way]()
 - [Basic calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb)
 - [Scientific calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scientific%20calculator.ipynb)
 - [Tic Tac Toe](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tic%20Tac%20Toe.ipynb)
-- [Scrape text from webpage](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20text%20from%20webpage.ipynb)
-- [Scrape and download csv pdf image files from webpage](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20and%20download%20csv%20pdf%20image%20files%20from%20webpage.ipynb)
-- [Scrape emails, phone number, url from given text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20emails%2C%20phone%20number%2C%20url%20from%20given%20text.ipynb)
-- [Download a file from a url](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20a%20file%20from%20a%20url.ipynb)
-- [Download all files from a webpage](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20all%20files%20from%20a%20webpage.ipynb)
+- [Scrape text from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20text%20from%20webpage.ipynb)
+- [Screenshot of a web page]()
+- [Scrape and download CSV PDF image files from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20and%20download%20csv%20pdf%20image%20files%20from%20webpage.ipynb)
+- [Scrape emails, phone number, URL from given text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20emails%2C%20phone%20number%2C%20url%20from%20given%20text.ipynb)
+- [Download a file from a URL](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20a%20file%20from%20a%20url.ipynb)
+- [Download all files from a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20all%20files%20from%20a%20webpage.ipynb)
 - [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
 - [Create SQL table from text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20SQL%20table%20from%20text.ipynb)
 - [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
@@ -61,9 +67,11 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Compress and Decompress Video file]
 - [Read text from images](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Read%20text%20from%20images.ipynb)
 - [Tiny URL - Making URLs short](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tiny%20URL%20-%20Making%20URLs%20short.ipynb)
-- [Creating a CRON job in linux](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20linux.ipynb)
+- [Creating a CRON job in Linux](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20linux.ipynb)
 - [Creating a CRON job in windows](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20windows.ipynb)
-- [Generate Image Watermark](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20Image%20Watermark.ipynb)
+- [Watching file drop to trigger script]
+- [memory use on windows MAC OS or Linux]
+- [Keep moving mouse to avoid sleep mode]
 - [News API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/News%20API.ipynb)
 - [Write latex]
 - [Write svg icons]
@@ -75,9 +83,6 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Boxing match timer for 10 rounds 3 mins each with 2 min break]
 - [Jump rope counter]
 - [EMOM clock]
-- [Watching file drop to trigger script]
-- [memory use on windows macos or linux]
-- [Keep moving mouse to avoid sleep mode]
 - Jupyter notebook access from local network
 - run vscode from browser
 - Python Http server
@@ -90,17 +95,17 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - Firebase hosting code
 - [Grammar Correction API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Grammar%20Correction%20API.ipynb)
 - [Fetch Recipe API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Fetch%20Recipe%20API.ipynb)
-- [Nasa API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Nasa%20API.ipynb)
-- [YT Video Downloader](https://github.com/AmitXShukla/RPA/blob/main/notebooks/YT%20Video%20Downloader.ipynb)
+- [NASA API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Nasa%20API.ipynb)
+- [YT Video Download](https://github.com/AmitXShukla/RPA/blob/main/notebooks/YT%20Video%20Downloader.ipynb)
 - [InstaDpViewer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/InstaDpViewer.ipynb)
-- Unsplash API
+- splash API
 - Email Sending API
-- Increasing youtube videos using selenium
+- Increasing YouTube videos using selenium
 - Calculator count down timer, counter, timer, world clock
-- writing SQLs, tuning SQLs, SQL Explain plan, SQL Stored Procedure
+- writing SQL, tuning SQL, SQL Explain plan, SQL Stored Procedure
 - convert Oracle PL SQL to HIVE SQL
-- Explain sql
-- what’s wrong in this sql
+- Explain SQL
+- what is wrong in this SQL
 - Insert into databases
 - convert table row to SQL Insert Scripts
 - [Create SQL table from text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20SQL%20table%20from%20text.ipynb)
