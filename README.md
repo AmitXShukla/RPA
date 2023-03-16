@@ -6,11 +6,7 @@ AI Bots - AI bots and robotic process automation using Python and Julia language
 
 ## Author: Amit Shukla
 
-## Contact: [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
-
-## License: MIT
-
-[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/@Amit.Shukla)
+## Contact: [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/@Amit.Shukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/github.svg" width=40 height=50>](https://github.com/AmitXShukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/medium.svg" width=40 height=50>](https://medium.com/@Amit_Shukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
@@ -37,45 +33,20 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 ---
 
 - [Splitting big file and combining it back](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Splitting%20big%20file%20and%20combining%20it%20back.ipynb)
-- [Splitting CSV file by rows and combining it back]()
+- [Splitting CSV file by rows and combining it back](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Splitting%20CSV%20file%20by%20rows%20and%20combining%20it%20back.ipynb)
+- [File Encrypt and Decrypt](https://github.com/AmitXShukla/RPA/blob/main/notebooks/File%20Encrypt%20and%20Decrypt.ipynb)
+- [Data Masking and Unmasking](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Data%20Masking%20and%20Unmasking.ipynb)
+- [Search and replace over a large number of text files](https://github.com/AmitXShukla/RPA/blob/main/notebooks/search%20and%20replace%20over%20a%20large%20number%20of%20text%20files.ipynb)
+- [Rename and rearrange a bunch of files in certain way](https://github.com/AmitXShukla/RPA/blob/main/notebooks/rename%20and%20rearrange%20a%20bunch%20of%20files%20in%20certain%20way.ipynb)
+
+---
+
 - [Generate and Read QR Code](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20and%20Read%20QR%20Code.ipynb)
 - [Generate Image Watermark](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20Image%20Watermark.ipynb)
-- [File Encrypt and Decrypt](https://github.com/AmitXShukla/RPA/blob/main/notebooks/File%20Encrypt%20and%20Decrypt.ipynb)
-- [Data Masking and Unmasking]()
-- [search-and-replace over a large number of text files]()
-- [rename and rearrange a bunch of files in certain way]()
 - [Basic calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb)
 - [Scientific calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scientific%20calculator.ipynb)
 - [Tic Tac Toe](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tic%20Tac%20Toe.ipynb)
-- [Scrape text from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20text%20from%20webpage.ipynb)
-- [Screenshot of a web page]()
-- [Scrape and download CSV PDF image files from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20and%20download%20csv%20pdf%20image%20files%20from%20webpage.ipynb)
-- [Scrape emails, phone number, URL from given text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20emails%2C%20phone%20number%2C%20url%20from%20given%20text.ipynb)
-- [Download a file from a URL](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20a%20file%20from%20a%20url.ipynb)
-- [Download all files from a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20all%20files%20from%20a%20webpage.ipynb)
-- [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
-- [Create SQL table from text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20SQL%20table%20from%20text.ipynb)
-- [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
-- [Convert Images to PDF](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20Images%20to%20PDF.ipynb)
-- [Convert PDF to CSV](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20PDF%20to%20CSV.ipynb)
-- [Convert CSV to DSV](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20CSV%20to%20DSV.ipynb)
-- [Convert Text to CSV](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20Text%20to%20CSV.ipynb)
-- [Convert Images to Text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20Images%20to%20Text.ipynb)
-- [Compress and Decompress csv file]
-- [Compress and Decompress Image file]
-- [Compress and Decompress Audio file]
-- [Compress and Decompress Video file]
-- [Read text from images](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Read%20text%20from%20images.ipynb)
 - [Tiny URL - Making URLs short](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tiny%20URL%20-%20Making%20URLs%20short.ipynb)
-- [Creating a CRON job in Linux](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20linux.ipynb)
-- [Creating a CRON job in windows](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20windows.ipynb)
-- [Watching file drop to trigger script]
-- [memory use on windows MAC OS or Linux]
-- [Keep moving mouse to avoid sleep mode]
-- [News API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/News%20API.ipynb)
-- [Write latex]
-- [Write svg icons]
-- [Write regex code]
 - [Count down timer]
 - [Timer]
 - [World clock]
@@ -83,16 +54,67 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Boxing match timer for 10 rounds 3 mins each with 2 min break]
 - [Jump rope counter]
 - [EMOM clock]
+- Calculator count down timer, counter, timer, world clock
+
+---
+
+- [Scrape text from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20text%20from%20webpage.ipynb)
+- [Screenshot of a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Screenshot%20of%20a%20web%20page.ipynb)
+- [Scrape and download CSV PDF image files from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20and%20download%20csv%20pdf%20image%20files%20from%20webpage.ipynb)
+- [Scrape emails, phone number, URL from given text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20emails%2C%20phone%20number%2C%20url%20from%20given%20text.ipynb)
+- [Download a file from a URL](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20a%20file%20from%20a%20url.ipynb)
+- [Download all files from a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20all%20files%20from%20a%20webpage.ipynb)
+- [Keep moving mouse to avoid sleep mode](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Keep%20moving%20mouse%20to%20avoid%20sleep%20mode.ipynb)
+- Increasing YouTube videos using selenium
+- [Read text from images](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Read%20text%20from%20images.ipynb)
+
+---
+
+- [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
+- [Create SQL table from text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20SQL%20table%20from%20text.ipynb)
+- [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
+
+---
+
+- [Convert Images to PDF](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20Images%20to%20PDF.ipynb)
+- [Convert PDF to CSV](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20PDF%20to%20CSV.ipynb)
+- [Convert CSV to DSV](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20CSV%20to%20DSV.ipynb)
+- [Convert Text to CSV](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20Text%20to%20CSV.ipynb)
+- [Convert Images to Text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20Images%20to%20Text.ipynb)
+- [Compress and Decompress CSV file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20CSV%20file.ipynb)
+- [Compress and Decompress Image file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20Image%20file.ipynb)
+- [Compress and Decompress Audio file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20Audio%20file.ipynb)
+- [Compress and Decompress Video file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20Video%20file.ipynb)
+
+---
+
+- [Creating a CRON job in Linux](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20linux.ipynb)
+- [Creating a CRON job in windows](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20windows.ipynb)
+- [Watching file drop to trigger script](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Watching%20file%20drop%20to%20trigger%20script.ipynb)
+- [Memory use on windows MAC OS or Linux](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Memory%20use%20on%20windows%20MAC%20OS%20or%20Linux.ipynb)
+
+---
+
+- [Write latex]
+- [Write SVG icons]
+- [Write regex code]
+
+---
+
 - Jupyter notebook access from local network
 - run vscode from browser
-- Python Http server
-- Nodejs Http server
-- Nodejs cors
-- Nodejs http api
-- Nodejs sql injection prevention
-- Jwt code auth token
-- Validate jwt token
+- Python HTTP server
+- Node JS HTTP server
+- Node JS CORS
+- Node JS HTTP API
+- Node JS sql injection prevention
+- JWT code Authentication token
+- Validate JWT token
 - Firebase hosting code
+
+---
+
+- [News API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/News%20API.ipynb)
 - [Grammar Correction API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Grammar%20Correction%20API.ipynb)
 - [Fetch Recipe API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Fetch%20Recipe%20API.ipynb)
 - [NASA API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Nasa%20API.ipynb)
@@ -100,8 +122,9 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [InstaDpViewer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/InstaDpViewer.ipynb)
 - splash API
 - Email Sending API
-- Increasing YouTube videos using selenium
-- Calculator count down timer, counter, timer, world clock
+
+---
+
 - writing SQL, tuning SQL, SQL Explain plan, SQL Stored Procedure
 - convert Oracle PL SQL to HIVE SQL
 - Explain SQL
@@ -110,22 +133,36 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - convert table row to SQL Insert Scripts
 - [Create SQL table from text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20SQL%20table%20from%20text.ipynb)
 - updating database from a table with 1 million rows
-- duplicate score using ChatGpt classifier
-- duplicate score using ChatGpt stylometric analysis
-- duplicate score using ChatGpt sentimental analysis
-- finding cheater using ChatGpt
-- Text to Speech
-- Plagiarism Checker
-- [python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
-- [python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
-- [python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
-
-## Putting it all together *--work in progress*
 
 ---
 
+- duplicate score using ChatGPT classifier
+- duplicate score using ChatGPT stylometric analysis
+- duplicate score using ChatGPT sentimental analysis
+- finding cheater using ChatGPT
+- Text to Speech
+- Plagiarism Checker
+
+---
+
+- [python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
+- [python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
+- [python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
+- python getters and setters
+- python decorators, double dunders, magic functions
+
+---
+## Putting it all together *--work in progress*
+
+
 - RPA to build Open Reconciliation system
 - RPA to build a Trading BOT
+- RPA to build Auto Replenishment Inventory Order system
+- Python network scanner
+- Stock prices Exploratory data analysis
+- Python Time Series Forecasting
+- Mermaid.js with ChatGPT
+- Python Graphs
 
 ## Hacker Series *--work in progress*
 
