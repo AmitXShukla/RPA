@@ -41,7 +41,7 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [File Encrypt and Decrypt](https://github.com/AmitXShukla/RPA/blob/main/notebooks/File%20Encrypt%20and%20Decrypt.ipynb)
 - [Data Masking and Unmasking](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Data%20Masking%20and%20Unmasking.ipynb)
 - [Search and replace over a large number of text files](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Search%20and%20replace%20over%20a%20large%20number%20of%20text%20files.ipynb)
-- [Rename and rearrange files using os and shutils module](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Rename%20and%20rearrange%20files%20using%20os%20and%20shutils%20module.ipynb)
+- [Rename and rearrange files using os and shutils module](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Rename%20and%20rearrange%20files%20using%20os%20and%20shutil%20module.ipynb)
 
 ---
 
