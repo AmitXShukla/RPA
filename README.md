@@ -3,10 +3,14 @@
 AI Bots - AI bots and robotic process automation using Python and Julia language scripts to automate routine tasks that are performed on a daily basis.
 
 ---
+[Video Tutorials](https://youtube.com/playlist?list=PLp0TENYyY8lEVXWsuaQR5nebML55QBcwN)
+
+*This is a `work in progress` repository and updated daily, please follow me at GitHub, Subscribe to [YouTube channel](https://youtube.com/@Amit.Shukla) to see latest updates.*
 
 ## Author: Amit Shukla
 
 ## Contact: [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/@Amit.Shukla)
+
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/github.svg" width=40 height=50>](https://github.com/AmitXShukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/medium.svg" width=40 height=50>](https://medium.com/@Amit_Shukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
@@ -36,8 +40,20 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Splitting CSV file by rows and combining it back](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Splitting%20CSV%20file%20by%20rows%20and%20combining%20it%20back.ipynb)
 - [File Encrypt and Decrypt](https://github.com/AmitXShukla/RPA/blob/main/notebooks/File%20Encrypt%20and%20Decrypt.ipynb)
 - [Data Masking and Unmasking](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Data%20Masking%20and%20Unmasking.ipynb)
-- [Search and replace over a large number of text files](https://github.com/AmitXShukla/RPA/blob/main/notebooks/search%20and%20replace%20over%20a%20large%20number%20of%20text%20files.ipynb)
-- [Rename and rearrange a bunch of files in certain way](https://github.com/AmitXShukla/RPA/blob/main/notebooks/rename%20and%20rearrange%20a%20bunch%20of%20files%20in%20certain%20way.ipynb)
+- [Search and replace over a large number of text files](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Search%20and%20replace%20over%20a%20large%20number%20of%20text%20files.ipynb)
+- [Rename and rearrange files using os and shutils module](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Rename%20and%20rearrange%20files%20using%20os%20and%20shutils%20module.ipynb)
+
+---
+
+- [Scrape text from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20text%20from%20webpage.ipynb)
+- [Screenshot of a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Screenshot%20of%20a%20web%20page.ipynb)
+- [Scrape and download CSV PDF image files from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20and%20download%20csv%20pdf%20image%20files%20from%20webpage.ipynb)
+- [Scrape emails, phone number, URL from given text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20emails%2C%20phone%20number%2C%20url%20from%20given%20text.ipynb)
+- [Download a file from a URL](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20a%20file%20from%20a%20url.ipynb)
+- [Download all files from a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20all%20files%20from%20a%20webpage.ipynb)
+- [Keep moving mouse to avoid sleep mode](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Keep%20moving%20mouse%20to%20avoid%20sleep%20mode.ipynb)
+- Increasing YouTube videos using selenium
+- [Read text from images](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Read%20text%20from%20images.ipynb)
 
 ---
 
@@ -55,18 +71,6 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Jump rope counter]
 - [EMOM clock]
 - Calculator count down timer, counter, timer, world clock
-
----
-
-- [Scrape text from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20text%20from%20webpage.ipynb)
-- [Screenshot of a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Screenshot%20of%20a%20web%20page.ipynb)
-- [Scrape and download CSV PDF image files from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20and%20download%20csv%20pdf%20image%20files%20from%20webpage.ipynb)
-- [Scrape emails, phone number, URL from given text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20emails%2C%20phone%20number%2C%20url%20from%20given%20text.ipynb)
-- [Download a file from a URL](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20a%20file%20from%20a%20url.ipynb)
-- [Download all files from a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20all%20files%20from%20a%20webpage.ipynb)
-- [Keep moving mouse to avoid sleep mode](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Keep%20moving%20mouse%20to%20avoid%20sleep%20mode.ipynb)
-- Increasing YouTube videos using selenium
-- [Read text from images](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Read%20text%20from%20images.ipynb)
 
 ---
 
@@ -150,10 +154,12 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
 - python getters and setters
 - python decorators, double dunders, magic functions
+- python Regular Expression
+- python, everything you need to about dates
 
 ---
-## Putting it all together *--work in progress*
 
+## Putting it all together *--work in progress*
 
 - RPA to build Open Reconciliation system
 - RPA to build a Trading BOT
@@ -191,4 +197,3 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 ## Privacy Policy
 
 <https://github.com/AmitXShukla/RPA/blob/main/LICENSE>
-
