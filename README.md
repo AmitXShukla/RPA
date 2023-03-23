@@ -46,6 +46,7 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 ---
 
 - [Screenshot of a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Screenshot%20of%20a%20web%20page.ipynb)
+- [Read text from Images](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Read%20text%20from%20images.ipynb)
 - [Scrape text from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20text%20from%20webpage.ipynb)
 - [Scrape emails, phone number, URL from given text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20emails%2C%20phone%20number%2C%20url%20from%20given%20text.ipynb)
 - [Download a file from a URL](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20a%20file%20from%20a%20url.ipynb)
@@ -53,7 +54,6 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Scrape and download CSV PDF image files from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20and%20download%20csv%20pdf%20image%20files%20from%20webpage.ipynb)
 - [Keep moving mouse to avoid sleep mode](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Keep%20moving%20mouse%20to%20avoid%20sleep%20mode.ipynb)
 - Increasing YouTube videos using selenium
-- [Read text from images](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Read%20text%20from%20images.ipynb)
 
 ---
 
