@@ -36,12 +36,18 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ---
 
+## working with os and files
+
+---
+
 - [Splitting big file and combining it back](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Splitting%20big%20file%20and%20combining%20it%20back.ipynb)
 - [Splitting CSV file by rows and combining it back](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Splitting%20CSV%20file%20by%20rows%20and%20combining%20it%20back.ipynb)
 - [File Encrypt and Decrypt](https://github.com/AmitXShukla/RPA/blob/main/notebooks/File%20Encrypt%20and%20Decrypt.ipynb)
 - [Data Masking and Unmasking](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Data%20Masking%20and%20Unmasking.ipynb)
 - [Search and replace over a large number of text files](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Search%20and%20replace%20over%20a%20large%20number%20of%20text%20files.ipynb)
-- [Rename and rearrange files using os and shutils module](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Rename%20and%20rearrange%20files%20using%20os%20and%20shutil%20module.ipynb)
+- [Rename and rearrange files using os and shutil module](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Rename%20and%20rearrange%20files%20using%20os%20and%20shutil%20module.ipynb)
+
+## web scrapping
 
 ---
 
@@ -53,16 +59,21 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Download all files from a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20all%20files%20from%20a%20webpage.ipynb)
 - [Scrape and download CSV PDF image files from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20and%20download%20csv%20pdf%20image%20files%20from%20webpage.ipynb)
 - [Keep moving mouse to avoid sleep mode](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Keep%20moving%20mouse%20to%20avoid%20sleep%20mode.ipynb)
-- Increasing YouTube videos using selenium
+- [Increasing YouTube videos using selenium](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Increasing%20YouTube%20videos%20using%20selenium.ipynb)
+
+## miscellaneous
 
 ---
 
+13
 - [Generate and Read QR Code](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20and%20Read%20QR%20Code.ipynb)
 - [Generate Image Watermark](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20Image%20Watermark.ipynb)
+14
 - [Basic calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb)
 - [Scientific calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scientific%20calculator.ipynb)
+15
 - [Tic Tac Toe](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tic%20Tac%20Toe.ipynb)
-- [Tiny URL - Making URLs short](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tiny%20URL%20-%20Making%20URLs%20short.ipynb)
+16
 - [Count down timer]
 - [Timer]
 - [World clock]
@@ -73,13 +84,16 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - Calculator count down timer, counter, timer, world clock
 
 ---
-
+17 18
 - [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
 - [Create SQL table from text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20SQL%20table%20from%20text.ipynb)
 - [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
 
----
+## conversions
 
+---
+19
+20
 - [Convert Images to PDF](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20Images%20to%20PDF.ipynb)
 - [Convert PDF to CSV](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20PDF%20to%20CSV.ipynb)
 - [Convert CSV to DSV](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20CSV%20to%20DSV.ipynb)
@@ -90,8 +104,11 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Compress and Decompress Audio file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20Audio%20file.ipynb)
 - [Compress and Decompress Video file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20Video%20file.ipynb)
 
+## CRON jobs
+
 ---
 
+21
 - [Creating a CRON job in Linux](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20linux.ipynb)
 - [Creating a CRON job in windows](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20windows.ipynb)
 - [Watching file drop to trigger script](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Watching%20file%20drop%20to%20trigger%20script.ipynb)
@@ -99,12 +116,12 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ---
 
-- [Write latex]
-- [Write SVG icons]
-- [Write regex code]
+## HTTP
 
----
-
+22
+23
+24
+25
 - Jupyter notebook access from local network
 - run vscode from browser
 - Python HTTP server
@@ -118,17 +135,36 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ---
 
+## Python - know how
+
+26 27  28 29 30
+- [python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
+- [python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
+- [python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
+- python getters and setters
+- python decorators, double dunders, magic functions
+- python Regular Expression
+- python, everything you need to about dates
+
+---
+
+## working with APIs
+
 - [News API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/News%20API.ipynb)
 - [Grammar Correction API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Grammar%20Correction%20API.ipynb)
 - [Fetch Recipe API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Fetch%20Recipe%20API.ipynb)
 - [NASA API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Nasa%20API.ipynb)
 - [YT Video Download](https://github.com/AmitXShukla/RPA/blob/main/notebooks/YT%20Video%20Downloader.ipynb)
 - [InstaDpViewer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/InstaDpViewer.ipynb)
+- [Tiny URL - Making URLs short](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tiny%20URL%20-%20Making%20URLs%20short.ipynb)
 - splash API
 - Email Sending API
 - python - Open AI ChatGPT
 - curl - Open AI ChatGPT
+
 ---
+
+## SQL
 
 - writing SQL, tuning SQL, SQL Explain plan, SQL Stored Procedure
 - convert Oracle PL SQL to HIVE SQL
@@ -141,22 +177,33 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ---
 
-- duplicate score using ChatGPT classifier
-- duplicate score using ChatGPT stylometric analysis
-- duplicate score using ChatGPT sentimental analysis
-- finding cheater using ChatGPT
-- Text to Speech
-- Plagiarism Checker
+## Latex, SVG and Regex - how to
+
+- [Write latex]
+- [Write SVG icons]
+- [Write regex code]
+
+## working with Polars
 
 ---
 
-- [python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
-- [python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
-- [python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
-- python getters and setters
-- python decorators, double dunders, magic functions
-- python Regular Expression
-- python, everything you need to about dates
+- About Polars DataFrame
+- Experession
+- Select Context
+- Group By Context
+- Windows functions
+- Data Transformation
+
+## Building ETL Datawarehouse and ELT Data Lake
+
+---
+
+- Architecture
+- Extract
+- Load
+- Transformation
+- ETL Datawarehouse
+- ETL Data lake
 
 ---
 
@@ -165,11 +212,21 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - RPA to build Open Reconciliation system
 - RPA to build a Trading BOT
 - RPA to build Auto Replenishment Inventory Order system
+- Document scanner - Match Exception Digital Invoice generator
 - Python network scanner
 - Stock prices Exploratory data analysis
 - Python Time Series Forecasting
 - Mermaid.js with ChatGPT
 - Python Graphs
+
+---
+
+- duplicate score using ChatGPT classifier
+- duplicate score using ChatGPT stylometric analysis
+- duplicate score using ChatGPT sentimental analysis
+- finding cheater using ChatGPT
+- Text to Speech
+- Plagiarism Checker
 
 ## Hacker Series *--work in progress*
 
@@ -198,3 +255,4 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 ## Privacy Policy
 
 <https://github.com/AmitXShukla/RPA/blob/main/LICENSE>
+
