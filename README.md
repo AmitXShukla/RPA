@@ -9,8 +9,9 @@ AI Bots - AI bots and robotic process automation using Python and Julia language
 
 ## Author: Amit Shukla
 
-## Contact: [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/@Amit.Shukla)
+## Contact
 
+[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/@Amit.Shukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/github.svg" width=40 height=50>](https://github.com/AmitXShukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/medium.svg" width=40 height=50>](https://medium.com/@Amit_Shukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
@@ -65,35 +66,23 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ---
 
-13
 - [Generate and Read QR Code](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20and%20Read%20QR%20Code.ipynb)
 - [Generate Image Watermark](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20Image%20Watermark.ipynb)
-14
+- [Tic Tac Toe](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tic%20Tac%20Toe.ipynb)
 - [Basic calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb)
 - [Scientific calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scientific%20calculator.ipynb)
-15
-- [Tic Tac Toe](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tic%20Tac%20Toe.ipynb)
-16
-- [Count down timer]
-- [Timer]
-- [World clock]
-- [Alarm clock]
-- [Boxing match timer for 10 rounds 3 mins each with 2 min break]
-- [Jump rope counter]
-- [EMOM clock]
-- Calculator count down timer, counter, timer, world clock
-
----
-17 18
-- [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
-- [Create SQL table from text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20SQL%20table%20from%20text.ipynb)
-- [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
+- [Count down timer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20Count%20down.ipynb)
+- [Timer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer.ipynb)
+- [World clock](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20world%20clock.ipynb)
+- [Alarm clock](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20Alarm.ipynb)
+- [Boxing match timer for 10 rounds 3 mins each with 2 min break](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20Boxing.ipynb)
+- [Jump rope counter](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20Jump%20rope.ipynb)
+- [EMOM Timer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20EMOM.ipynb)
 
 ## conversions
 
 ---
-19
-20
+
 - [Convert Images to PDF](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20Images%20to%20PDF.ipynb)
 - [Convert PDF to CSV](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20PDF%20to%20CSV.ipynb)
 - [Convert CSV to DSV](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Convert%20CSV%20to%20DSV.ipynb)
@@ -104,11 +93,16 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Compress and Decompress Audio file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20Audio%20file.ipynb)
 - [Compress and Decompress Video file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20Video%20file.ipynb)
 
+---
+
+- [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
+- [Create SQL table from text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20SQL%20table%20from%20text.ipynb)
+- [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
+
 ## CRON jobs
 
 ---
 
-21
 - [Creating a CRON job in Linux](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20linux.ipynb)
 - [Creating a CRON job in windows](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Creating%20a%20CRON%20job%20in%20windows.ipynb)
 - [Watching file drop to trigger script](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Watching%20file%20drop%20to%20trigger%20script.ipynb)
@@ -122,6 +116,7 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 23
 24
 25
+
 - Jupyter notebook access from local network
 - run vscode from browser
 - Python HTTP server
@@ -138,6 +133,7 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 ## Python - know how
 
 26 27  28 29 30
+
 - [python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
 - [python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
 - [python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
@@ -150,17 +146,18 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ## working with APIs
 
-- [News API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/News%20API.ipynb)
-- [Grammar Correction API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Grammar%20Correction%20API.ipynb)
-- [Fetch Recipe API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Fetch%20Recipe%20API.ipynb)
-- [NASA API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Nasa%20API.ipynb)
-- [YT Video Download](https://github.com/AmitXShukla/RPA/blob/main/notebooks/YT%20Video%20Downloader.ipynb)
-- [InstaDpViewer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/InstaDpViewer.ipynb)
-- [Tiny URL - Making URLs short](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tiny%20URL%20-%20Making%20URLs%20short.ipynb)
+- [News API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20News.ipynb)
+- [Grammar Correction API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Grammar%20Correction.ipynb)
+- [Fetch Recipe API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Fetch%20Recipe.ipynb)
+- [NASA API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Nasa.ipynb)
+- [YT Video Download](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20YT%20Video%20Downloader.ipynb)
+- [InstaDpViewer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20InstaDpViewer.ipynb)
+- [Tiny URL - Making URLs short](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Tiny%20URL%20-%20Making%20URLs%20short.ipynb)
+- [Open AI API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20OpenAI.ipynb)
+- curl - Open AI ChatGPT
 - splash API
 - Email Sending API
 - python - Open AI ChatGPT
-- curl - Open AI ChatGPT
 
 ---
 
@@ -188,7 +185,7 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 ---
 
 - About Polars DataFrame
-- Experession
+- Expression
 - Select Context
 - Group By Context
 - Windows functions
@@ -250,9 +247,8 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ## License Agreement
 
-<https://github.com/AmitXShukla/RPA/blob/main/LICENSE>
+[License Information](https://github.com/AmitXShukla/RPA/blob/main/LICENSE)
 
 ## Privacy Policy
 
-<https://github.com/AmitXShukla/RPA/blob/main/LICENSE>
-
+[Privacy Policy](<https://github.com/AmitXShukla/RPA/blob/main/LICENSE)
