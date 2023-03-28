@@ -59,8 +59,8 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Download a file from a URL](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20a%20file%20from%20a%20url.ipynb)
 - [Download all files from a web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Download%20all%20files%20from%20a%20webpage.ipynb)
 - [Scrape and download CSV PDF image files from web page](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scrape%20and%20download%20csv%20pdf%20image%20files%20from%20webpage.ipynb)
-- [Keep moving mouse to avoid sleep mode](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Keep%20moving%20mouse%20to%20avoid%20sleep%20mode.ipynb)
-- [Increasing YouTube videos using selenium](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Increasing%20YouTube%20videos%20using%20selenium.ipynb)
+- [Keep moving mouse to avoid os sleep mode](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Keep%20moving%20mouse%20to%20avoid%20sleep%20mode.ipynb)
+- [Boost Your YouTube Views Legitimately](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Increasing%20YouTube%20videos%20using%20selenium.ipynb)
 
 ## miscellaneous
 
