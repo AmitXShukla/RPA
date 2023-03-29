@@ -1,4 +1,4 @@
-## RPA
+# RPA
 
 AI Bots - AI bots and robotic process automation using Python and Julia language scripts to automate routine tasks that are performed on a daily basis.
 
@@ -78,6 +78,7 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Boxing match timer for 10 rounds 3 mins each with 2 min break](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20Boxing.ipynb)
 - [Jump rope counter](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20Jump%20rope.ipynb)
 - [EMOM Timer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20EMOM.ipynb)
+- [TABADA Timer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20TABADA.ipynb)
 
 ## conversions
 
@@ -92,12 +93,6 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Compress and Decompress Image file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20Image%20file.ipynb)
 - [Compress and Decompress Audio file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20Audio%20file.ipynb)
 - [Compress and Decompress Video file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Compress%20and%20Decompress%20Video%20file.ipynb)
-
----
-
-- [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
-- [Create SQL table from text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20SQL%20table%20from%20text.ipynb)
-- [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
 
 ## CRON jobs
 
@@ -134,13 +129,20 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 26 27  28 29 30
 
-- [python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
-- [python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
-- [python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
-- python getters and setters
-- python decorators, double dunders, magic functions
-- python Regular Expression
-- python, everything you need to about dates
+- [Python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
+- [Python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
+- [Python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
+- Python getters and setters
+- Python decorators, double dunders, magic functions
+- Python Regular Expression
+- Python, everything you need to about dates
+- Python Scripts, Module, Packages and Virtual Environment
+- Python OOP
+
+---
+
+- [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
+- [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
 
 ---
 
@@ -149,15 +151,16 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [News API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20News.ipynb)
 - [Grammar Correction API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Grammar%20Correction.ipynb)
 - [Fetch Recipe API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Fetch%20Recipe.ipynb)
+- [Fetch Movies API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Fetch%20Movies.ipynb)
 - [NASA API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Nasa.ipynb)
 - [YT Video Download](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20YT%20Video%20Downloader.ipynb)
 - [InstaDpViewer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20InstaDpViewer.ipynb)
 - [Tiny URL - Making URLs short](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Tiny%20URL%20-%20Making%20URLs%20short.ipynb)
 - [Open AI API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20OpenAI.ipynb)
-- curl - Open AI ChatGPT
-- splash API
-- Email Sending API
-- python - Open AI ChatGPT
+- [DropBox API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20DropBox.ipynb)
+- [Harry Potter API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Harry%20Potter.ipynb)
+- [Email Sending API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Email%20Send.ipynb)
+- [Open AI ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20OpenAI.ipynb)
 
 ---
 
@@ -167,8 +170,6 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - convert Oracle PL SQL to HIVE SQL
 - Explain SQL
 - what is wrong in this SQL
-- Insert into databases
-- convert table row to SQL Insert Scripts
 - [Create SQL table from text](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20SQL%20table%20from%20text.ipynb)
 - updating database from a table with 1 million rows
 
@@ -229,11 +230,11 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ---
 
-- read Text, QR code in images stored in an external drive
+- read Text, QR code in images stored in an external drive, query those urls through curl and send response to Firebase HTTP
 - read key board sound
 - download all emails, quotes, products, phone number, QR Codes, Finance Transactions, URLs from pics
 - where have you been
-- reading your emails
+- reading your emails | sending automated email based on dynamic content
 - reading your insta
 - reading your meta
 - reading your tweets
@@ -244,6 +245,7 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - chill pill
 - Fetch Movies
 - Reading eMail in transit hack
+- Twitter, FB, LinkedIn auto publish bot
 
 ## License Agreement
 
@@ -251,4 +253,4 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ## Privacy Policy
 
-[Privacy Policy](<https://github.com/AmitXShukla/RPA/blob/main/LICENSE)
+[Privacy Policy](https://github.com/AmitXShukla/RPA/blob/main/LICENSE)
