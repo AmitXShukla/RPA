@@ -69,8 +69,8 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Generate and Read QR Code](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20and%20Read%20QR%20Code.ipynb)
 - [Generate Image Watermark](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Generate%20Image%20Watermark.ipynb)
 - [Tic Tac Toe](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tic%20Tac%20Toe.ipynb)
-- [Basic calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb)
-- [Scientific calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scientific%20calculator.ipynb)
+- [Mass calculation](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb)
+- [Basic Scientific calculator](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Scientific%20calculator.ipynb)
 - [Count down timer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20Count%20down.ipynb)
 - [Timer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer.ipynb)
 - [World clock](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20world%20clock.ipynb)
@@ -79,6 +79,8 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Jump rope counter](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20Jump%20rope.ipynb)
 - [EMOM Timer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20EMOM.ipynb)
 - [TABADA Timer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20TABADA.ipynb)
+- [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
+- [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
 
 ## conversions
 
@@ -107,11 +109,6 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ## HTTP
 
-22
-23
-24
-25
-
 - Jupyter notebook access from local network
 - run vscode from browser
 - Python HTTP server
@@ -123,30 +120,9 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - Validate JWT token
 - Firebase hosting code
 
----
-
-## Python - know how
-
-26 27  28 29 30
-
-- [Python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
-- [Python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
-- [Python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
-- Python getters and setters
-- Python decorators, double dunders, magic functions
-- Python Regular Expression
-- Python, everything you need to about dates
-- Python Scripts, Module, Packages and Virtual Environment
-- Python OOP
-
----
-
-- [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
-- [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
-
----
-
 ## working with APIs
+
+---
 
 - [News API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20News.ipynb)
 - [Grammar Correction API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Grammar%20Correction.ipynb)
@@ -161,6 +137,47 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Harry Potter API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Harry%20Potter.ipynb)
 - [Email Sending API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Email%20Send.ipynb)
 - [Open AI ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20OpenAI.ipynb)
+
+## Python - know how
+
+---
+
+26 27  28 29 30
+
+- [Python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
+- [Python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
+- [Python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
+- Python getters and setters
+- Python decorators, double dunders, magic functions
+- Python Regular Expression
+- Python, everything you need to about dates
+- Python Scripts, Module, Packages and Virtual Environment
+- [Python - OOPs](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20OOPs.ipynb)
+
+---
+
+## working with Polars
+
+---
+
+- [Python - Introductions to Polars DataFrame](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20Polars%20dataframe%20complete%20user%20guide.ipynb)
+- [Python - About Polars DataFrame Expressions]
+- [Python Polars - Context]
+- [Python Polars - Select]
+- [Python Polars DataFrame - Groupby]
+- [Python Polars DataFrame - Windows functions]
+- [Python Polars DataFrame - Data Transformation]
+
+## Building ETL Datawarehouse and ELT Data Lake
+
+---
+
+- Architecture
+- Extract
+- Load
+- Transformation
+- ETL Datawarehouse
+- ETL Data lake
 
 ---
 
@@ -181,32 +198,11 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Write SVG icons]
 - [Write regex code]
 
-## working with Polars
-
 ---
 
-- About Polars DataFrame
-- Expression
-- Select Context
-- Group By Context
-- Windows functions
-- Data Transformation
+## Live RPA (Robotic Process Automation) Projects *--work in progress*
 
-## Building ETL Datawarehouse and ELT Data Lake
-
----
-
-- Architecture
-- Extract
-- Load
-- Transformation
-- ETL Datawarehouse
-- ETL Data lake
-
----
-
-## Putting it all together *--work in progress*
-
+- [Monitoring live web content](https://github.com/AmitXShukla/RPA/blob/main/notebooks/RPA%20-%20Monitoring%20live%20web%20content.ipynb)
 - RPA to build Open Reconciliation system
 - RPA to build a Trading BOT
 - RPA to build Auto Replenishment Inventory Order system
@@ -219,9 +215,9 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ---
 
-- duplicate score using ChatGPT classifier
-- duplicate score using ChatGPT stylometric analysis
-- duplicate score using ChatGPT sentimental analysis
+- duplicate score using ChatGPT Classifier
+- duplicate score using ChatGPT Stylometric analysis
+- duplicate score using ChatGPT Sentimental analysis
 - finding cheater using ChatGPT
 - Text to Speech
 - Plagiarism Checker
