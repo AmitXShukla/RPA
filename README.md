@@ -29,9 +29,9 @@ I am Amit Shukla, and I have been working on automating RPA tasks for over a dec
 
 In this RPA series, we will use ChatGPT's code writing skills to build a trading bot from scratch. I do not view ChatGPT as a threat to my job, at least not yet. Instead, I believe it can assist me in writing smarter solutions to solve more significant problems.
 
-This tutorial series does not focus on using ChatGPT for everything, nor does it address the pros and cons of AI writing codes. Instead, we concentrate on RPA tasks and utilize ChatGPT's help where appropriate.
+The emphasis of this tutorial series is not centered on exclusively using ChatGPT or discussing the advantages and disadvantages of AI coding. Rather, our main focus lies in RPA tasks and utilizing ChatGPT's assistance where suitable.
 
-The notebooks included in this repository are beginner-friendly code snippets for automating small tasks and every line of source code is included here in this GitHub repository.
+In this GitHub repository, you will find code snippets that are suitable for novice programmers to automate minor tasks, with every single line of source code provided.
 
 ## Table of Contents
 
@@ -81,6 +81,7 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [TABADA Timer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Timer%20TABADA.ipynb)
 - [Reading a cookie file](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Reading%20a%20cookie%20file.ipynb)
 - [Create fake test data using ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Create%20fake%20test%20data%20using%20ChatGPT.ipynb)
+- [Tree Flattening](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Tree%20Flattening.ipynb)
 
 ## conversions
 
@@ -142,8 +143,6 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 
 ---
 
-26 27  28 29 30
-
 - [Python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
 - [Python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
 - [Python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
@@ -168,8 +167,9 @@ The notebooks included in this repository are beginner-friendly code snippets fo
 - [Python Polars DataFrame - Windows functions]
 - [Python Polars DataFrame - Data Transformation]
 
-## Building ETL Datawarehouse and ELT Data Lake
+## Building ETL Datawarehouse and ELT Data Lake using Polars dataframe
 
+[Building ETL Datawarehouse and ELT Data Lake](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Building%20ETL%20Datawarehouse%20and%20ELT%20Data%20Lake.ipynb)
 ---
 
 - Architecture
