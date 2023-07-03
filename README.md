@@ -13,7 +13,7 @@ AI Bots - AI bots and robotic process automation using Python and Julia language
 
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/@Amit.Shukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/github.svg" width=40 height=50>](https://github.com/AmitXShukla)
-[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/medium.svg" width=40 height=50>](https://medium.com/@Amit_Shukla)
+[<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/medium.svg" width=40 height=50>](https://medium.com/@Amit-Shukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
 
 ---
@@ -169,7 +169,7 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 
 ## Building ETL Datawarehouse and ELT Data Lake using Polars dataframe
 
-[Building ETL Datawarehouse and ELT Data Lake](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Building%20ETL%20Datawarehouse%20and%20ELT%20Data%20Lake.ipynb)
+- [Building ETL Datawarehouse and ELT Data Lake](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Building%20ETL%20Datawarehouse%20and%20ELT%20Data%20Lake.ipynb)
 ---
 
 - Architecture
