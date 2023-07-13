@@ -138,6 +138,7 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 - [Harry Potter API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Harry%20Potter.ipynb)
 - [Email Sending API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Email%20Send.ipynb)
 - [Open AI ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20OpenAI.ipynb)
+- BARD vs ChatGPT
 
 ## Python - know how
 
