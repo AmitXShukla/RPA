@@ -5,7 +5,7 @@ AI Bots - AI bots and robotic process automation using Python and Julia language
 ---
 [Video Tutorials](https://youtube.com/playlist?list=PLp0TENYyY8lEVXWsuaQR5nebML55QBcwN)
 
-*This is a `work in progress` repository and updated daily, please follow me at GitHub, Subscribe to [YouTube channel](https://youtube.com/@Amit.Shukla) to see latest updates.*
+*This is a `work in progress` repository and `updated frequently`, please follow me at [Twitter](https://twitter.com/ashuklax), Subscribe to [YouTube channel](https://youtube.com/@Amit.Shukla) to see latest updates.*
 
 ## Author: Amit Shukla
 
@@ -137,8 +137,7 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 - [DropBox API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20DropBox.ipynb)
 - [Harry Potter API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Harry%20Potter.ipynb)
 - [Email Sending API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Email%20Send.ipynb)
-- [Open AI ChatGPT](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20OpenAI.ipynb)
-- BARD vs ChatGPT
+- [Open AI ChatGPT, BARD, Llama2](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20OpenAI.ipynb)
 
 ## Python - know how
 
@@ -171,6 +170,7 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 ## Building ETL Datawarehouse and ELT Data Lake using Polars dataframe
 
 - [Building ETL Datawarehouse and ELT Data Lake](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Building%20ETL%20Datawarehouse%20and%20ELT%20Data%20Lake.ipynb)
+
 ---
 
 - Architecture
