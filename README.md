@@ -25,7 +25,7 @@ In this series, we will write snippets of Python code used in Automation tasks a
 
 ---
 
-I am Amit Shukla, and I have been working on automating RPA tasks for over a decade now. Since the recent launch of ChatGPT, I am exploring ways to use its coding skills to automate small daily routines.
+I'm Amit Shukla, and I have been working on automating RPA tasks for over a decade now. Since the recent launch of ChatGPT, I am exploring ways to use its coding skills to automate small daily routines.
 
 In this RPA series, we will use ChatGPT's code writing skills to build a trading bot from scratch. I do not view ChatGPT as a threat to my job, at least not yet. Instead, I believe it can assist me in writing smarter solutions to solve more significant problems.
 
@@ -139,6 +139,14 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 - [Email Sending API](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20Email%20Send.ipynb)
 - [Open AI ChatGPT, BARD, Llama2](https://github.com/AmitXShukla/RPA/blob/main/notebooks/API%20-%20OpenAI.ipynb)
 
+## Llama Use cases
+
+---
+
+llama2-UseCases
+
+- [Llama 2 Use Cases](https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-UseCases.ipynb)
+
 ## Python - know how
 
 ---
@@ -159,17 +167,11 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 
 ---
 
-- [Python - Introductions to Polars DataFrame](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20Polars%20dataframe%20complete%20user%20guide.ipynb)
-- [Python - About Polars DataFrame Expressions]
-- [Python Polars - Context]
-- [Python Polars - Select]
-- [Python Polars DataFrame - Groupby]
-- [Python Polars DataFrame - Windows functions]
-- [Python Polars DataFrame - Data Transformation]
+- [Python - Complete Data Wrangling guide with Polars DataFrame](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20Polars%20dataframe%20complete%20user%20guide.ipynb)
 
-## Building ETL Datawarehouse and ELT Data Lake using Polars dataframe
+## Building ETL Datawarehouse and ELT Data Lake using Polars DataFrame
 
-- [Building ETL Datawarehouse and ELT Data Lake](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Building%20ETL%20Datawarehouse%20and%20ELT%20Data%20Lake.ipynb)
+- [World's Fastest ETL Datawarehouse & ELT Data Lake using Polars DataFrame](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Building%20ETL%20Datawarehouse%20and%20ELT%20Data%20Lake.ipynb)
 
 ---
 
