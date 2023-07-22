@@ -3,9 +3,11 @@
 AI Bots - AI bots and robotic process automation using Python and Julia language scripts to automate routine tasks that are performed on a daily basis.
 
 ---
-[Video Tutorials](https://youtube.com/playlist?list=PLp0TENYyY8lEVXWsuaQR5nebML55QBcwN)
+[Video Tutorials - ChatGPT RPA Automation](https://youtube.com/playlist?list=PLp0TENYyY8lEVXWsuaQR5nebML55QBcwN)
 
-*This is a `work in progress` repository and `updated frequently`, please follow me at [Twitter](https://twitter.com/ashuklax), Subscribe to [YouTube channel](https://youtube.com/@Amit.Shukla) to see latest updates.*
+[Video Tutorials - Llama 2 use cases](https://youtube.com/playlist?list=PLp0TENYyY8lHgMTV0VQV5NCk_DadWVD4h)
+
+*This is a `work in progress` repository and `updated frequently`, please follow me at [Twitter](https://twitter.com/ashuklax), Subscribe to [YouTube channel](https://youtube.com/@Amit.Shukla) to see latest updates.*. Please give a star * to this repository.
 
 ## Author: Amit Shukla
 
@@ -27,9 +29,9 @@ In this series, we will write snippets of Python code used in Automation tasks a
 
 I'm Amit Shukla, and I have been working on automating RPA tasks for over a decade now. Since the recent launch of ChatGPT, I am exploring ways to use its coding skills to automate small daily routines.
 
-In this RPA series, we will use ChatGPT's code writing skills to build a trading bot from scratch. I do not view ChatGPT as a threat to my job, at least not yet. Instead, I believe it can assist me in writing smarter solutions to solve more significant problems.
+In this RPA series, we will use ChatGPT/Llama's code writing skills to build a trading bot from scratch. I do not view `ChatGPT or Llama` as a threat to my job, at least not yet. Instead, I believe it can assist me in writing smarter solutions to solve more significant problems.
 
-The emphasis of this tutorial series is not centered on exclusively using ChatGPT or discussing the advantages and disadvantages of AI coding. Rather, our main focus lies in RPA tasks and utilizing ChatGPT's assistance where suitable.
+The emphasis of this tutorial series is not centered on exclusively using LLM (large language models) or discussing the advantages and disadvantages of AI coding. Rather, our main focus lies in RPA tasks and utilizing LLMs's assistance where suitable.
 
 In this GitHub repository, you will find code snippets that are suitable for novice programmers to automate minor tasks, with every single line of source code provided.
 
@@ -141,11 +143,14 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 
 ## Llama Use cases
 
+- [Llama 2 Installation Windows/Linux](https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-UseCases.ipynb)
+- [Efficient Time and Expense Monitoring with Llama 2](https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-UseCases.ipynb)
+
 ---
 
-llama2-UseCases
+## WIP
 
-- [Llama 2 Use Cases](https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-UseCases.ipynb)
+** all notebooks below this section is *work in progress.*
 
 ## Python - know how
 
@@ -167,11 +172,11 @@ llama2-UseCases
 
 ---
 
-- [Python - Complete Data Wrangling guide with Polars DataFrame](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20Polars%20dataframe%20complete%20user%20guide.ipynb)
+- Python - Complete Data Wrangling guide with Polars DataFrame
 
 ## Building ETL Datawarehouse and ELT Data Lake using Polars DataFrame
 
-- [World's Fastest ETL Datawarehouse & ELT Data Lake using Polars DataFrame](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Building%20ETL%20Datawarehouse%20and%20ELT%20Data%20Lake.ipynb)
+- World's Fastest ETL Datawarehouse & ELT Data Lake using Polars DataFrame
 
 ---
 
