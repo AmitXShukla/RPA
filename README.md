@@ -21,7 +21,7 @@ AI Bots - AI bots and robotic process automation using Python and Julia language
 Welcome to my latest RPA series notebooks.
 In this series, we will write snippets of Python code used in Automation tasks and later, will put it all altogether to deliver an RPA project.
 
-## RPA with help of Open AI ChatGPT
+## RPA with help of Open AI ChatGPT, Llama2
 
 ---
 
