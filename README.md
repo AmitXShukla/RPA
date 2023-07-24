@@ -11,7 +11,7 @@ AI Bots - AI bots and robotic process automation using Python and Julia language
 
 ## Author: Amit Shukla
 
-## Contact
+## Connect
 
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/@Amit.Shukla)
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/github.svg" width=40 height=50>](https://github.com/AmitXShukla)
@@ -144,7 +144,8 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 ## Llama Use cases
 
 - [Llama 2 Installation Windows/Linux](https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-UseCases.ipynb)
-- [Efficient Time and Expense Monitoring with Llama 2](https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-UseCases.ipynb)
+- [Efficient Time and Expense Monitoring with Llama 2](https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-Efficient%20Time%20and%20Expense%20Monitoring%20with%20Llama%202.ipynb)
+- [Using Llama 2 as OCR Vision AI](https://github.com/AmitXShukla/RPA/blob/main/notebooks/llama2-Using%20Llama%202%20as%20OCR%20Vision%20AI.ipynb)
 
 ---
 
