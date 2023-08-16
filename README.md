@@ -150,6 +150,14 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 
 ---
 
+## working with Polars
+
+---
+
+- [The Ultimate Guide to Data Wrangling with Python | Rust Polars Data Frame](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20Polars%20dataframe%20complete%20user%20guide.ipynb)
+
+---
+
 ## WIP
 
 ** all notebooks below this section is *work in progress.*
@@ -169,12 +177,6 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 - [Python - OOPs](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20OOPs.ipynb)
 
 ---
-
-## working with Polars
-
----
-
-- Python - Complete Data Wrangling guide with Polars DataFrame
 
 ## Building ETL Datawarehouse and ELT Data Lake using Polars DataFrame
 
