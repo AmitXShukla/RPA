@@ -3,6 +3,7 @@
 *.jl.*.cov
 
 *.cfg
+media/
 Scripts/
 Lib/
 Include/

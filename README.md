@@ -155,6 +155,7 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 ---
 
 - [The Ultimate Guide to Data Wrangling with Python | Rust Polars Data Frame](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20Polars%20dataframe%20complete%20user%20guide.ipynb)
+- [PDF version - The Ultimate Guide to Data Wrangling with Python | Rust Polars Data Frame](https://github.com/AmitXShukla/RPA/blob/main/SampleData/The%20Ultimate%20Guide%20to%20Data%20Wrangling%20with%20Python%20-%20Rust%20Polars%20Data%20Frame.pdf)
 
 ---
 
