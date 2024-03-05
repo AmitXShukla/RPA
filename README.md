@@ -167,15 +167,18 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 
 ---
 
-- [Python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
-- [Python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20understanding%20functions.ipynb)
-- [Python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/python%20-%20shallow%20and%20deep%20copy.ipynb)
-- Python getters and setters
-- Python decorators, double dunders, magic functions
+- [Python - data types, structure, assignments, operators and control flow](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20data%20types%20structure%20assignments%20operators%20control%20flow.ipynb)
+- [Python - understanding functions](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20understanding%20functions.ipynb)
+- [Python - shallow and deep copy](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20shallow%20and%20deep%20copy.ipynb)
+- Python - getters and setters
+- [Python - pass by assignments](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20pass%20by%20reference%20value%20or%20assignments.ipynb)
+- [Python - decorators](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20about%20decorators.ipynb)
+- [Python - create synthetic data using DSPy Synthesizer](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20create%20synthetic%20data%20using%20DSPy%20Synthesizer.ipynb)
+- Python - double dunders, magic functions
 - Python Regular Expression
 - Python, everything you need to about dates
-- Python Scripts, Module, Packages and Virtual Environment
-- [Python - OOPs](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20OOPs.ipynb)
+- [Python Scripts, Module, Packages and Virtual Environment](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20venv%20pip%20packages%20modules.ipynb)
+- [Python - OOPs | Duck Typing](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20OOPs%20-%20Duck%20Typing.ipynb)
 
 ---
 
