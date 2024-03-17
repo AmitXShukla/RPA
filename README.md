@@ -159,10 +159,6 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 
 ---
 
-## WIP
-
-** all notebooks below this section is *work in progress.*
-
 ## Python - know how
 
 ---
@@ -182,6 +178,21 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 
 ---
 
+## WIP
+
+** all notebooks below this section is *work in progress.*
+
+---
+
+## Machine Learning
+- build a recommendation engine to suggest a recipe and ingredients
+- predicting ETA by traffic
+
+## Deep Learning
+- predicting ETA by traffic
+
+---
+
 ## Building ETL Datawarehouse and ELT Data Lake using Polars DataFrame
 
 - World's Fastest ETL Datawarehouse & ELT Data Lake using Polars DataFrame
@@ -194,6 +205,16 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 - Transformation
 - ETL Datawarehouse
 - ETL Data lake
+
+---
+## working with Pandas Dataframe
+
+
+- [EDA for Pro Analysts](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20EDA%20for%20Pro%20Data%20Analyst.ipynb)
+- [PDF version - EDA for Pro Analysts](https://github.com/AmitXShukla/RPA/blob/main/SampleData/EDA%20for%20Pro%20Data%20Analyst.pdf)
+
+
+## 
 
 ---
 
