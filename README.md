@@ -210,8 +210,8 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 ## working with Pandas Dataframe
 
 
-- [EDA for Pro Analysts](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20EDA%20for%20Pro%20Data%20Analyst.ipynb)
-- [PDF version - EDA for Pro Analysts](https://github.com/AmitXShukla/RPA/blob/main/SampleData/EDA%20for%20Pro%20Data%20Analyst.pdf)
+- [EDA for Pro Analysts](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Python%20-%20EDA%20for%20Pro%20Data%20Analysts.ipynb)
+- [PDF version - EDA for Pro Analysts](https://github.com/AmitXShukla/RPA/blob/main/SampleData/EDA%20for%20Pro%20Data%20Analysts.pdf)
 
 
 ## 
