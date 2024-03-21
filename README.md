@@ -178,20 +178,21 @@ In this GitHub repository, you will find code snippets that are suitable for nov
 
 ---
 
-## WIP
-
-** all notebooks below this section is *work in progress.*
-
----
-
 ## Machine Learning
-- build a recommendation engine to suggest a recipe and ingredients
+- [build a recommendation engine to suggest a recipe and ingredients](https://github.com/AmitXShukla/RPA/blob/main/notebooks/ML%20-%20Recommendation%20Engine.ipynb)
 - predicting ETA by traffic
 
 ## Deep Learning
 - predicting ETA by traffic
 
 ---
+
+## WIP
+
+** all notebooks below this section is *work in progress.*
+
+---
+
 
 ## Building ETL Datawarehouse and ELT Data Lake using Polars DataFrame
 
